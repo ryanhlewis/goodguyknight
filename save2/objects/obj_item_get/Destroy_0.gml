@@ -1,0 +1,1 @@
+if(audio_is_playing(snd_weow)) audio_stop_sound(snd_weow);

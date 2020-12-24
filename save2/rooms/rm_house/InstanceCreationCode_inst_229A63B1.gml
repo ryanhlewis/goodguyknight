@@ -1,0 +1,3 @@
+warp_x = 128;
+warp_y = 367;
+warp_room = rm_1;

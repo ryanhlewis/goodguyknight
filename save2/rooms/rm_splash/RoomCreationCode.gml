@@ -1,0 +1,2 @@
+scr_initialize();
+randomize();

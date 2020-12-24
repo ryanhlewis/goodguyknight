@@ -1,0 +1,1 @@
+scr_transition_fade_warp(warp_room,.03,warp_x,warp_y);
