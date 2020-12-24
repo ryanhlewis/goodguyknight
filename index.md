@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- Github pages are actually really good. -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="#eeeeee" name="theme-color"><meta content="https://img.itch.zone/aW1nLzQwNzIwMjQucG5n/original/XuKadr.png" property="og:image"><link rel="icon" href="https://img.itch.zone/aW1nLzQwNzIwMjkucG5n/32x32%23/KxJWLs.png" type="image/png"><meta content="itch.io" property="og:site_name"><meta content="4503599627724030" property="twitter:account_id"><meta content="A platformer about a knight who&#39;s just trying to be a good guy, but fate has another idea." property="og:description"><meta content="A platformer about a knight who&#39;s just trying to be a good guy, but fate has another idea." name="description"><meta content="width=device-width, initial-scale=1" name="viewport"><meta content="games/731990" name="itch:path"><meta content="@itchio" name="twitter:site"><meta content="Good Guy Knight by Ryan Lewis" name="twitter:title"><meta content="A platformer about a knight who&#39;s just trying to be a good guy, but fate has another idea. Available for Windows" name="twitter:description"><meta content="summary_large_image" name="twitter:card"><meta content="https://img.itch.zone/aW1nLzQwNzIwMjQucG5n/original/XuKadr.png" property="twitter:image"><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"item":{"@id":"https:\/\/itch.io\/games","name":"Games"},"@type":"ListItem","position":1},{"item":{"@id":"https:\/\/itch.io\/games\/genre-adventure","name":"Adventure"},"@type":"ListItem","position":2},{"item":{"@id":"https:\/\/itch.io\/games\/free","name":"Free"},"@type":"ListItem","position":3}]}</script><script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Product","name":"Good Guy Knight","description":"A platformer about a knight who's just trying to be a good guy, but fate has another idea."}</script><title>Good Guy Knight by Ryan Lewis</title><link rel="stylesheet" href="./index_files/game.css"><script type="text/javascript">window.itchio_translations_url = 'https://static.itch.io/translations';</script><script type="text/javascript">if (!window.location.hostname.match(/localhost/)) {        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-You can use the [editor on GitHub](https://github.com/ryanhlewis/goodguyknight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanhlewis/goodguyknight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        ga("create", {"cookieDomain":"auto","trackingId":"UA-136625-6"})
+        ga("set", 'anonymizeIp', true);
+        ga("send", "pageview");
+        ga("require", "ecommerce");
+      
+          ga('create', {"cookieDomain":"auto","name":"user","trackingId":"UA-170117197-1"});
+          ga('user.set', 'anonymizeIp', true);
+          ga('user.send', 'pageview');
+        
+          ga('create', {"cookieDomain":"auto","name":"game","trackingId":"UA-170117197-1"});
+          ga('game.set', 'anonymizeIp', true);
+          ga('game.send', 'pageview');
+        }</script><style type="text/css" id="game_theme">:root{--itchio_ui_bg: #585858;--itchio_ui_bg_dark: #525252}.wrapper{--itchio_font_family: Lato;--itchio_bg_color: #eeeeee;--itchio_bg2_color: rgba(58, 58, 58, 1);--itchio_bg2_sub: #4d4d4d;--itchio_text_color: #ffffff;--itchio_link_color: #fa5c5c;--itchio_border_color: #606060;--itchio_button_color: #fa5c5c;--itchio_button_fg_color: white;--itchio_button_shadow_color: #e54747;background-color:#eeeeee;/*! */ background-image: url(https://img.itch.zone/aW1nLzQwNzIyNjkucG5n/original/PP%2Bs9q.png);;background-repeat: no-repeat;background-position: 50% 0; /* */}.inner_column{color:#ffffff;font-family:Lato,Lato,LatoExtended,sans-serif;background-color:rgba(58, 58, 58, 1)}.inner_column ::selection{color:white;background:#fa5c5c}.inner_column ::-moz-selection{color:white;background:#fa5c5c}.inner_column h1,.inner_column h2,.inner_column h3,.inner_column h4,.inner_column h5,.inner_column h6{font-family:inherit;font-weight:900;color:inherit}.inner_column a,.inner_column .footer a{color:#fa5c5c}.inner_column .button,.inner_column .button:hover,.inner_column .button:active{background-color:#fa5c5c;color:white;text-shadow:0 1px 0px #e54747}.inner_column hr{background-color:#606060}.inner_column table{border-color:#606060}.inner_column .redactor-box .redactor-toolbar li a{color:#fa5c5c}.inner_column .redactor-box .redactor-toolbar li a:hover,.inner_column .redactor-box .redactor-toolbar li a:active,.inner_column .redactor-box .redactor-toolbar li a.redactor-act{background-color:#fa5c5c !important;color:white !important;text-shadow:0 1px 0px #e54747 !important}.inner_column .redactor-box .redactor-toolbar .re-button-tooltip{text-shadow:none}.game_frame{background:#4d4d4d;/*! */  /* */}.game_frame .embed_info{background-color:rgba(58, 58, 58, 0.85)}.game_loading .loader_bar .loader_bar_slider{background-color:#fa5c5c}.view_game_page .reward_row,.view_game_page .bundle_row{border-color:#4d4d4d !important}.view_game_page .game_info_panel_widget{background:rgba(77, 77, 77, 1)}.view_game_page .star_value .star_fill{color:#fa5c5c}.view_game_page .rewards .quantity_input{background:rgba(77, 77, 77, 1);border-color:rgba(255, 255, 255, 0.5);color:#ffffff}.view_game_page .right_col{display:block}.game_devlog_page li .meta_row .post_likes{border-color:#4d4d4d}.game_devlog_post_page .post_like_button{box-shadow:inset 0 0 0 1px #606060}.game_comments_widget .community_post .post_footer a,.game_comments_widget .community_post .post_footer .vote_btn,.game_comments_widget .community_post .post_header .post_date a,.game_comments_widget .community_post .post_header .edit_message{color:rgba(255, 255, 255, 0.5)}.game_comments_widget .community_post .reveal_full_post_btn{background:linear-gradient(to bottom, transparent, #3a3a3a 50%, #3a3a3a);color:#fa5c5c}.game_comments_widget .community_post .post_votes{border-color:rgba(255, 255, 255, 0.2)}.game_comments_widget .community_post .post_votes .vote_btn:hover{background:rgba(255, 255, 255, 0.05)}.game_comments_widget .community_post .post_footer .vote_btn{border-color:rgba(255, 255, 255, 0.5)}.game_comments_widget .community_post .post_footer .vote_btn span{color:inherit}.game_comments_widget .community_post .post_footer .vote_btn:hover,.game_comments_widget .community_post .post_footer .vote_btn.voted{background-color:#fa5c5c;color:white;text-shadow:0 1px 0px #e54747;border-color:#fa5c5c}.game_comments_widget .form .redactor-box,.game_comments_widget .form .click_input,.game_comments_widget .form .forms_markdown_input_widget{border-color:rgba(255, 255, 255, 0.5);background:transparent}.game_comments_widget .form .redactor-layer,.game_comments_widget .form .redactor-toolbar,.game_comments_widget .form .click_input,.game_comments_widget .form .forms_markdown_input_widget{background:rgba(77, 77, 77, 1)}.game_comments_widget .form .forms_markdown_input_widget .markdown_toolbar button{color:inherit;opacity:0.6}.game_comments_widget .form .forms_markdown_input_widget .markdown_toolbar button:hover,.game_comments_widget .form .forms_markdown_input_widget .markdown_toolbar button:active{opacity:1;background-color:#fa5c5c !important;color:white !important;text-shadow:0 1px 0px #e54747 !important}.game_comments_widget .form .forms_markdown_input_widget .markdown_toolbar,.game_comments_widget .form .forms_markdown_input_widget li{border-color:rgba(255, 255, 255, 0.5)}.game_comments_widget .form textarea{border-color:rgba(255, 255, 255, 0.5);background:rgba(77, 77, 77, 1);color:inherit}.game_comments_widget .form .redactor-toolbar{border-color:rgba(255, 255, 255, 0.5)}.game_comments_widget .hint{color:rgba(255, 255, 255, 0.5)}.game_community_preview_widget .community_topic_row .topic_tag{background-color:#4d4d4d}.footer .svgicon,.view_game_page .more_information_toggle .svgicon{fill:#ffffff !important}
+</style></head><body data-page_name="view_game" data-host="itch.io" class="locale_en game_layout responsive no_theme_toggle"><script type="text/javascript">new I.GameUserTools('#user_tools')</script><div id="wrapper" class="main wrapper"><div class="inner_column size_large family_lato" id="inner_column" style="min-height: 881px;"><div class="header has_image align_center" id="header"><img alt="Good Guy Knight" src="./index_files/kNNmdD.png"><h1 itemprop="name" class="game_title">Good Guy Knight</h1></div><div id="view_game_page_11815" class="view_game_page page_widget buy_on_top"><div class="header_buy_row"><p>A downloadable game for Windows</p><div class="buy_row"><div class="button_message"><a href="https://github.com/ryanhlewis/goodguyknight/raw/main/goodguyknight.zip" class="button buy_btn">Download Now</a><span class="buy_message"><span class="sub">Website template provided by Itch.io! Go check them out. </span></span></div></div></div><div class="columns"><div class="left_col column"><div class="formatted_description user_formatted"><p>Good Guy Knight is the first game I've ever made.</p>
+<p>Therefore, I made it with a goal in mind and a time frame as well. I learned a ton about GameMaker Studio while I was making this game, and it honestly was tons of fun to be learning- and at the same time applying that knowledge.</p>
+<p><br></p>
+<p>Anyway, Good Guy Knight is just a simple platformer about a knight who's trying to be a good guy, but,&nbsp;I love sarcasm and irony, so it doesn't quite play out so well.</p>
+<p>Hope you enjoy the game, and I'm happy to take any complaints/criticisms/compliments because after all- this is my first game, and I have a far way to go from here, to AAA style art, controls, and look.</p>
+<p>Thanks, and I'll hopefully see you when I make my next one. :)</p>
+<p><br></p>
+<p>CONTROLS</p>
+<p>WASD to move around</p>
+<p>E to attack/interact</p>
+<p>F for special ability (activated later)</p>
+<p>R to reset (respawn instantly)</p>
+<p><br></p>
+<p>(The game assets I used are all open source, so here's the names of all of the original creators! :)&nbsp; &nbsp; Thanks to them, this game looks how it looks.)</p>
+<p>- Knight Adventure Tileset provided by Dan&nbsp;Cramp</p>
+<p>- Forest / Animals Tileset provided by Indiana Kuffer</p>
+<p>Here are links to the tilesets if you want to create anything using them too-&nbsp;</p>
+<p><a href="https://indianakuffer.itch.io/cait-sidhe">https://indianakuffer.itch.io/cait-sidhe</a></p>
+<p><a href="https://opengameart.org/content/tiny-platform-quest-sprites" rel="nofollow noopener">https://opengameart.org/content/tiny-platform-quest-sprites</a><br></p></div><h2 id="download">Download</h2><div class="buy_row"><div class="button_message"><a href="https://github.com/ryanhlewis/goodguyknight/raw/main/goodguyknight.zip" class="button buy_btn">Download Now</a><span class="buy_message"><span class="sub">Hope you enjoy! :)</span></span></div></div></div><div class="right_col column"><div class="video_embed"></div><div class="screenshot_list"><a href="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTAucG5n/original/lIBUpx.png" target="_blank" data-image_lightbox="true"><img data-screenshot_id="4072290" srcset="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTAucG5n/347x500/2X2hqR.png 1x, https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTAucG5n/794x1000/qgVUXM.png 2x" class="screenshot" src="./index_files/2X2hqR.png"></a><a href="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTEucG5n/original/2enRep.png" target="_blank" data-image_lightbox="true"><img data-screenshot_id="4072291" srcset="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTEucG5n/347x500/tY5kH6.png 1x, https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyOTEucG5n/794x1000/e729qT.png 2x" class="screenshot" src="./index_files/tY5kH6.png"></a><a href="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyODkucG5n/original/w%2FdRnX.png" target="_blank" data-image_lightbox="true"><img data-screenshot_id="4072289" srcset="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyODkucG5n/347x500/0gqlKC.png 1x, https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIyODkucG5n/794x1000/PQRWyL.png 2x" class="screenshot" src="./index_files/0gqlKC.png"></a><a href="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIzNDkucG5n/original/7idFle.png" target="_blank" data-image_lightbox="true"><img data-screenshot_id="4072349" srcset="https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIzNDkucG5n/347x500/MXub9W.png 1x, https://img.itch.zone/aW1hZ2UvNzMxOTkwLzQwNzIzNDkucG5n/794x1000/zwAR5M.png 2x" class="screenshot" src="./index_files/MXub9W.png"></a></div></div></div></div></div></div></body></html>
